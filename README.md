@@ -1,8 +1,26 @@
-# ALGORITMOS DE MACHINE LEARNING
+# Análises de Datasets
 Aqui encontra-se meus Notebooks de análise de datasets públicos, a grande maioria do Kaggle. Abaixo uma lista:
 
+## Doenças Cardíacas 
+OBJETIVO: Criar um modelo de classificação que preveja se o paciente esta com uma doença cardíaca ou não (condition).
+### Bibliotecas utilizadas:
+- Numpy
+- Pandas
+- Seaborn
+- Scikit-learn (LogisticRegression, KNeighboorsClassifier,mean_squared_error, cross_val_score, train_test_split, StandardScaler, confusion_matrix, classification_report e plot_roc_curve)
+
+## Consumo de Automóveis
+OBJETIVO: Criar um modelo de regressão linear múltipla que relacione o Consumo (MPG) dos veículos com os demais atributos.
+### Bibliotecas utilizadas:
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Fuzzywuzzy
+- Scikit-learn (LinearRegression, mean_squared_error, cross_val_score, train_test_split e StandardScaler)
+
 ## Case 99 taxi
-Busquei demonstrar ao menos 4 KPIs que COO, CFO e CEO da empresa gostariam de saber.
+OBJETIVO: Demonstrar ao menos 4 KPIs que COO, CFO e CEO da empresa gostariam de saber.
 ### Bibliotecas utilizadas:
 - Numpy
 - Pandas
@@ -13,10 +31,7 @@ Busquei demonstrar ao menos 4 KPIs que COO, CFO e CEO da empresa gostariam de sa
 - Foilum
 
 ## Localizações de Mc'Donalds
-Busquei utilizar demonstrar através de gráfico de calor (heat-map) a concentração de Mc'Donalds nos EUA.
+OBJETIVO: Demonstrar através de gráfico de calor (heat-map) a concentração de Mc'Donalds nos EUA.
 ### Bibliotecas utilizadas:
 - Pandas
 - Folium
-
-## Campeonato Brasileiro (em andamento...)
-Pretendo treinar um algoritmos de Machine Learning para que encontre um padrão nos times que se sagram campeão ao final do campeonato
