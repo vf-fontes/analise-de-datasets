@@ -2,8 +2,8 @@
 Aqui encontra-se meus Notebooks de análise de datasets públicos, a grande maioria do Kaggle. Abaixo uma lista:
 
 ## Doenças Cardíacas 
-# OBJETIVO: Criar um modelo de classificação que preveja se o paciente esta com uma doença cardíaca ou não (condition).
-# DATASET USADO: https://www.kaggle.com/cherngs/heart-disease-cleveland-uci
+OBJETIVO: Criar um modelo de classificação que preveja se o paciente esta com uma doença cardíaca ou não (condition).
+\nDATASET USADO: https://www.kaggle.com/cherngs/heart-disease-cleveland-uci
 ### Bibliotecas utilizadas:
 - Numpy
 - Pandas
