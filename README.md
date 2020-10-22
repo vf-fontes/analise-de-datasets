@@ -1,7 +1,7 @@
 # Análises de Datasets
 Aqui encontra-se meus Notebooks de análise de datasets públicos, a grande maioria do Kaggle. Abaixo uma lista:
 
-## OLIST E-COMMERCE
+## E-commerce Olist 
 Autor: Vinicius Fontes
 
 OBJETIVO: Realizar análise descritiva de um conjunto de Datasets do Marketplace OLIST. Apartir desta análises verificar possibilidade de utilização de algoritmos de Machine Learning para conclusões preditivas.
